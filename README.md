@@ -3,6 +3,7 @@ I just DELETED pip dependencies, then the requirements.txt, PIP ITSELF, **EVEN T
 
 Notebook showing setup: https://colab.research.google.com/github/PhoenixStormJr/ultra-fast-colab-setup-no-pip/blob/main/ultra_fast_colab_setup_no_pip.ipynb
 
+Example notebook with super fast installation: https://colab.research.google.com/github/PhoenixStormJr/RVC-v2-easy-GUI-glitches-fixed/blob/main/EasyGUI_minimal_install_%F0%9F%8E%AE_10_02_2024__8.ipynb
 
 I got sick of Colab EATING my GPU time while installing 4,000 packages that are all WORTHLESS so I decided to... optimize! I said SCREW YOU PIP, WE'LL INSTALL WITHOUT YOU!!!
 
