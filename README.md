@@ -31,3 +31,5 @@ So stop wasting your GPU hours on install hell.
 🧟 Run the zombies (zip file).
 
 ☠️ And kill your requirements.txt.
+
+(Off topic, Jesus loves you, and died for your sins. Don't listen to corrupt Mega Churches with all these rules, Jesus said in Matthew 22:38-40: "This is the great and first commandment. And a second like unto it is this, Thou shalt love thy neighbor as thyself. On these two commandments hang all the law and the prophets." Meaning LOVE is the only commandment. Please join Jesus's TRUE family (not the evil Jesus of Mega Churches) and join his love today! Jesus loves you, God Bless! 😄)
